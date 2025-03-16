@@ -171,6 +171,15 @@ h2 { margin-top: 0; }
     background-color: #099;
 }
 
+.banner_section {
+    width: 100%;
+    float: left;
+    height: 180px;
+    background-size: 100%;
+    padding: 10px 0px 25px 0px;
+    background-repeat: no-repeat;
+}
+
 .tm-list-item-img-big {
     margin-right: 25px;
     width: 200px;
